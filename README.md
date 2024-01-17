@@ -11,9 +11,14 @@ python3 -m venv env
 source env/bin/activate
 ```
 
+actualizar el pip
+```shell script
+pip install --upgrade pip
+```
+
 install the requirements
 ```shell script
-pip install - r requirements.txt
+pip install -r requirements.txt
 ```
 
 navigate to the project folder
