@@ -1,0 +1,332 @@
+[
+{
+  "model": "api.joke",
+  "pk": "1dc5729f-8a50-4aaf-bd18-752540b676fb",
+  "fields": {
+    "categories": [],
+    "created_at": "2024-01-17T18:05:46.312Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:05:46.312Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello14"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "1e26be07-f487-46fa-b936-1b9e94c7c2b5",
+  "fields": {
+    "categories": [
+      "chuck"
+    ],
+    "created_at": "2024-01-17T18:06:26.208Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:06:26.208Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello22"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "25b343cd-4047-4d94-af83-fa7fba525927",
+  "fields": {
+    "categories": [
+      "celebrity"
+    ],
+    "created_at": "2024-01-17T18:05:30.088Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:05:30.088Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello11"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "2b09e9b5-9b39-40a7-8254-0c6754bc5739",
+  "fields": {
+    "categories": [],
+    "created_at": "2024-01-17T18:06:34.811Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:06:34.811Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello24"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "2eb3cf31-e439-4963-b1f4-959bb5a5ef7a",
+  "fields": {
+    "categories": [
+      "celebrity"
+    ],
+    "created_at": "2024-01-17T18:05:14.719Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:05:14.719Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello8"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "31b5d3d9-e68c-412c-9613-daff52a5a96e",
+  "fields": {
+    "categories": [
+      "celebrity"
+    ],
+    "created_at": "2024-01-17T18:05:25.558Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:05:25.558Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello10"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "5996627a-93a7-4020-bedf-81dda91b7812",
+  "fields": {
+    "categories": [],
+    "created_at": "2024-01-17T18:06:31.908Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:06:31.908Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello23"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "5d24335b-bce0-48cd-a60b-ea574d41975a",
+  "fields": {
+    "categories": [],
+    "created_at": "2024-01-17T18:06:37.572Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:06:37.572Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello25"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "60ba0fd9-b276-4a96-a2ff-b94cc23708b1",
+  "fields": {
+    "categories": [
+      "celebrity"
+    ],
+    "created_at": "2024-01-17T18:04:46.865Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:04:46.865Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello3"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "663c8078-ca0e-4a01-891d-c8e75e6ffa0c",
+  "fields": {
+    "categories": [
+      "chuck"
+    ],
+    "created_at": "2024-01-17T18:06:14.223Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:06:14.223Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello19"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "70e94ad4-8d90-4241-8a0b-ed4e44f955f8",
+  "fields": {
+    "categories": [],
+    "created_at": "2024-01-17T18:05:56.593Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:05:56.593Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello17"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "7ab126f2-a7f5-44f5-beca-9ebe79fa1aa6",
+  "fields": {
+    "categories": [],
+    "created_at": "2024-01-17T18:05:53.576Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:05:53.576Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello16"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "8228326b-7e91-4775-a44d-d9335482173e",
+  "fields": {
+    "categories": [
+      "celebrity"
+    ],
+    "created_at": "2024-01-17T18:05:10.600Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:05:10.600Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello7"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "8730dd9f-38df-4232-9074-2e845f75c660",
+  "fields": {
+    "categories": [
+      "celebrity"
+    ],
+    "created_at": "2024-01-17T18:05:06.818Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:05:06.818Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello6"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "9422d977-849c-4abd-a9e8-bf4c2d1bb47b",
+  "fields": {
+    "categories": [
+      "chuck"
+    ],
+    "created_at": "2024-01-17T18:06:21.689Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:06:21.689Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello21"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "99937b63-61bb-4bb0-8466-821e0c86363d",
+  "fields": {
+    "categories": [
+      "celebrity"
+    ],
+    "created_at": "2024-01-17T18:05:20.292Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:05:20.293Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello9"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "aa52b357-6561-475f-972d-c01f6fd200d4",
+  "fields": {
+    "categories": [
+      "chuck"
+    ],
+    "created_at": "2024-01-17T18:06:18.767Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:06:18.767Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello20"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "b14d9890-01d4-423c-a91a-090f5a9ebe15",
+  "fields": {
+    "categories": [
+      "chuck"
+    ],
+    "created_at": "2024-01-17T18:04:22.321Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:04:22.321Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello1"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "b4a1d2ac-75e6-4bfb-a793-47665f51a55f",
+  "fields": {
+    "categories": [
+      "celebrity"
+    ],
+    "created_at": "2024-01-17T18:05:01.116Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:05:01.116Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello5"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "bf7f8c53-ff2a-4899-9d54-a1957c30ebc7",
+  "fields": {
+    "categories": [
+      "goat"
+    ],
+    "created_at": "2024-01-17T18:04:37.834Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:04:37.834Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello2"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "c2eb90f1-5807-4b7c-b100-73e6170d9cf6",
+  "fields": {
+    "categories": [
+      "celebrity"
+    ],
+    "created_at": "2024-01-17T18:04:53.402Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:04:53.403Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello4"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "ccf84295-bf8e-4da0-bd0b-4bbfa4720f81",
+  "fields": {
+    "categories": [],
+    "created_at": "2024-01-17T18:05:40.149Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:05:40.149Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello12"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "e162bb15-31af-4ec9-8e87-65caf892c25e",
+  "fields": {
+    "categories": [],
+    "created_at": "2024-01-17T18:05:49.645Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:05:49.646Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello15"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "ebb3b6f3-4c25-4dcb-99f4-6668ad3702e6",
+  "fields": {
+    "categories": [],
+    "created_at": "2024-01-17T18:05:59.776Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:05:59.776Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello18"
+  }
+},
+{
+  "model": "api.joke",
+  "pk": "f407443f-c0af-494b-a7fe-86c483d29473",
+  "fields": {
+    "categories": [],
+    "created_at": "2024-01-17T18:05:43.441Z",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "updated_at": "2024-01-17T18:05:43.441Z",
+    "url": "https://api.chucknorris.io/jokes",
+    "value": "hello13"
+  }
+}
+]
