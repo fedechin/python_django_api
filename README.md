@@ -21,11 +21,21 @@ navigate to the project folder
 cd core
 ```
 
+migrate the database
+```shell script
+python manage.py migrate
+```
+
 Load seed jokes data
 ```shell script
 python manage.py loaddata seed/*
 ```
 
-# Swagger Docs
+Run the Server to check it ou
+```shell script
+python manage.py runserver
+```
+
+# Documentation
 swagger Docs can be found in
 http://localhost:8000/swagger/
